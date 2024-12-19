@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Allah
 Boit
 Correctement
@@ -5,3 +6,13 @@ Des
 Ennormes
 Fardes
 Gargantuesques
+=======
+Apriori
+Brice
+Couche
+Dans un
+Environnement
+Fort
+Giratoire
+Dev1
+>>>>>>> dev
